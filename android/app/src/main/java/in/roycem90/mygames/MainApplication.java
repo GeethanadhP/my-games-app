@@ -1,4 +1,4 @@
-package com.hltb_app;
+package in.roycem90.mygames;
 
 import android.app.Application;
 

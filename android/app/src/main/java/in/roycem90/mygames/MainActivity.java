@@ -1,4 +1,4 @@
-package com.hltb_app;
+package in.roycem90.mygames;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "hltb_app";
+        return "MyGames";
     }
 }
